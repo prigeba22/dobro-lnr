@@ -1,6 +1,6 @@
 # Рядом · ЛНР
 
-Локальная копия опубликованного сайта [https://chat-bot-orpin-two.vercel.app/].
+Локальная копия опубликованного сайта (https://dobro-lnr.onrender.com).
 
 ## Запуск
 
